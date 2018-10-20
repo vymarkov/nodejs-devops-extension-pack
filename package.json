@@ -1,0 +1,52 @@
+{
+    "name": "nodejs-devops-extension-pack",
+    "displayName": "Node.js + DevOps Extension Pack",
+    "description": "Popular VS Code extensions for Node.js development and building DevOps pipelines using GitLab and Kubernetes",
+    "version": "0.0.1",
+    "publisher": "vymarkov",
+    "engines": {
+        "vscode": "^1.28.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "keywords": [
+        "nodejs",
+        "kubernetes",
+        "helm",
+        "docker",
+        "gitlab",
+        "nginx"
+    ],
+    "extensionPack": [
+        "eg2.vscode-npm-script",
+        "christian-kohler.npm-intellisense",
+        "trabpukcip.vscode-npm-scripts",
+        "fabiospampinato.vscode-open-in-npm",
+        "christian-kohler.path-intellisense",
+        "mikestead.dotenv",
+        "EditorConfig.editorconfig",
+        "dbaeumer.vscode-eslint",
+        "esbenp.prettier-vscode",
+        "eamodio.gitlens",
+        "msjsdiag.debugger-for-chrome",
+        "mquandalle.graphql",
+        "dzannotti.vscode-babel-coloring",
+        "peterj.proto",
+        "robertohuertasm.vscode-icons",
+        "KnisterPeter.vscode-jira",
+        "PeterJausovec.vscode-docker",
+        "dudash.openshift-vscode-extension",
+        "mauve.terraform",
+        "technosophos.vscode-helm",
+        "shanoor.vscode-nginx",
+        "wholroyd.HCL",
+        "ms-kubernetes-tools.vscode-kubernetes-tools",
+        "ipedrazas.kubernetes-snippets",
+        "redhat.vscode-yaml",
+        "marcostazi.VS-code-vagrantfile",
+        "pkief.material-icon-theme",
+        "fatihacet.gitlab-workflow",
+        "shyykoserhiy.git-autoconfig"
+    ]
+}

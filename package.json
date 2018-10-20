@@ -19,22 +19,23 @@
         "nginx"
     ],
     "extensionPack": [
+        "EditorConfig.editorconfig",
+        "fatihacet.gitlab-workflow",
+        "shyykoserhiy.git-autoconfig",
+        "eamodio.gitlens",
         "eg2.vscode-npm-script",
         "christian-kohler.npm-intellisense",
         "trabpukcip.vscode-npm-scripts",
         "fabiospampinato.vscode-open-in-npm",
         "christian-kohler.path-intellisense",
         "mikestead.dotenv",
-        "EditorConfig.editorconfig",
         "dbaeumer.vscode-eslint",
         "esbenp.prettier-vscode",
-        "eamodio.gitlens",
         "msjsdiag.debugger-for-chrome",
         "mquandalle.graphql",
-        "dzannotti.vscode-babel-coloring",
         "peterj.proto",
+        "dzannotti.vscode-babel-coloring",
         "robertohuertasm.vscode-icons",
-        "KnisterPeter.vscode-jira",
         "PeterJausovec.vscode-docker",
         "dudash.openshift-vscode-extension",
         "mauve.terraform",
@@ -45,8 +46,6 @@
         "ipedrazas.kubernetes-snippets",
         "redhat.vscode-yaml",
         "marcostazi.VS-code-vagrantfile",
-        "pkief.material-icon-theme",
-        "fatihacet.gitlab-workflow",
-        "shyykoserhiy.git-autoconfig"
+        "pkief.material-icon-theme"
     ]
 }

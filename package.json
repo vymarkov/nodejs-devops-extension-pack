@@ -2,7 +2,7 @@
     "name": "nodejs-devops-extension-pack",
     "displayName": "Node.js + DevOps Extension Pack",
     "description": "Popular VS Code extensions for Node.js development and building DevOps pipelines using GitLab and Kubernetes",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "vymarkov",
     "engines": {
         "vscode": "^1.28.0"

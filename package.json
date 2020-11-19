@@ -36,16 +36,23 @@
         "peterj.proto",
         "dzannotti.vscode-babel-coloring",
         "robertohuertasm.vscode-icons",
-        "PeterJausovec.vscode-docker",
         "dudash.openshift-vscode-extension",
-        "mauve.terraform",
-        "technosophos.vscode-helm",
+        "HashiCorp.terraform",
         "shanoor.vscode-nginx",
         "wholroyd.HCL",
         "ms-kubernetes-tools.vscode-kubernetes-tools",
         "ipedrazas.kubernetes-snippets",
         "redhat.vscode-yaml",
         "marcostazi.VS-code-vagrantfile",
-        "pkief.material-icon-theme"
+        "pkief.material-icon-theme",
+        "ms-azuretools.vscode-docker",
+        "Gruntfuggly.todo-tree",
+        "humao.rest-client",
+        "joelday.docthis",
+        "aaron-bond.better-comments",
+        "mostafa.change-case",
+        "ria.elastic",
+        "yatki.vscode-surround",
+        "oouo-diogo-perdigao.docthis"
     ]
 }

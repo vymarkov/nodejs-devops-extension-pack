@@ -6,11 +6,15 @@
 
 ### Dev Tools
 
+- [REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client) - REST Client allows you to send HTTP request and view the response in Visual Studio Code directly.
+- [Elasticsearch for VSCode](https://marketplace.visualstudio.com/items?itemName=ria.elastic) - Elasticsearch client like Kibana console for vscode
 - [git-autoconfig](https://marketplace.visualstudio.com/items?itemName=shyykoserhiy.git-autoconfig) - Automatic git config `user.email` and `user.name` setting for vscode
 - [GitLab Workflow](https://marketplace.visualstudio.com/items?itemName=fatihacet.gitlab-workflow) - GitLab VSCode integration
+- [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments) - Improve your code commenting by annotating with alert, informational, TODOs, and more!
 
 ### Extensions for Node.js development
 
+- [Surround](https://marketplace.visualstudio.com/items?itemName=yatki.vscode-surround) - A simple yet powerful extension to add wrapper templates around your code blocks.
 - [DotEnv](https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv) - Support for [dotenv](https://medium.com/@thejasonfile/using-dotenv-package-to-create-environment-variables-33da4ac4ea8f) file syntax
 - [EditorConfig](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig) - [EditorConfig](https://editorconfig.org/) Support for Visual Studio Code, used
 - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) - VS Code plugin for [prettier/prettier](https://prettier.io/)

@@ -28,6 +28,15 @@
 
 - [Docker](https://marketplace.visualstudio.com/items?itemName=PeterJausovec.vscode-docker) - Adds syntax highlighting, commands, hover tips, and linting for Dockerfile and docker-compose files.
 
+### Release Notes
+
+### v0.0.4
+
+Add more useful extensions 😋
+
+- [REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client) - REST Client allows you to send HTTP request and view the response in Visual Studio Code directly.
+- [Elasticsearch for VSCode](https://marketplace.visualstudio.com/items?itemName=ria.elastic) - Elasticsearch client like Kibana console for vscode
+
 ### For more information
 
 - [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)

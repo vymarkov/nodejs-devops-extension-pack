@@ -2,8 +2,12 @@
     "name": "nodejs-devops-extension-pack",
     "displayName": "Node.js + DevOps Extension Pack",
     "description": "Popular VS Code extensions for Node.js development and building DevOps pipelines using GitLab and Kubernetes",
-    "version": "0.0.4",
+    "version": "0.0.5",
     "publisher": "vymarkov",
+    "repository": {
+		"type": "git",
+		"url": "https://github.com/vymarkov/nodejs-devops-extension-pack.git"
+	},
     "engines": {
         "vscode": "^1.28.0"
     },

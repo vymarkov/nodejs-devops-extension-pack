@@ -1,6 +1,6 @@
-# README
+# VS Code Node.js + DevOps Development Extension Pack
 
-## This is the README for your extension pack "nodejs-devops-extension-pack"
+Collection of Popular VS Code extensions for Node.js development and building DevOps pipelines using GitLab, Kubernetes, Helm, Gitlab CI Linter.
 
 ## Extensions Included
 

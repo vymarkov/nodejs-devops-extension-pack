@@ -9,7 +9,7 @@ Collection of Popular VS Code extensions for Node.js development and building De
 - [REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client) - REST Client allows you to send HTTP request and view the response in Visual Studio Code directly.
 - [Elasticsearch for VSCode](https://marketplace.visualstudio.com/items?itemName=ria.elastic) - Elasticsearch client like Kibana console for vscode
 - [git-autoconfig](https://marketplace.visualstudio.com/items?itemName=shyykoserhiy.git-autoconfig) - Automatic git config `user.email` and `user.name` setting for vscode
-- [GitLab Workflow](https://marketplace.visualstudio.com/items?itemName=fatihacet.gitlab-workflow) - GitLab VSCode integration
+- [GitLab Workflow](https://marketplace.visualstudio.com/items?itemName=gitlab.gitlab-workflow) - GitLab VSCode integration
 - [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments) - Improve your code commenting by annotating with alert, informational, TODOs, and more!
 
 ### Extensions for Node.js development
@@ -29,6 +29,10 @@ Collection of Popular VS Code extensions for Node.js development and building De
 - [Docker](https://marketplace.visualstudio.com/items?itemName=PeterJausovec.vscode-docker) - Adds syntax highlighting, commands, hover tips, and linting for Dockerfile and docker-compose files.
 
 ### Release Notes
+
+### v0.0.6
+
+Fix Gitlab Workflow extension's name, now it points to [gitlab.gitlab-workflow](https://marketplace.visualstudio.com/items?itemName=gitlab.gitlab-workflow)
 
 ### v0.0.4
 

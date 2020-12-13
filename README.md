@@ -30,6 +30,10 @@ Collection of Popular VS Code extensions for Node.js development and building De
 
 ### Release Notes
 
+### v0.0.7
+
+Replace [mostafa.change-case](https://marketplace.visualstudio.com/items?itemName=mostafa.change-case) extension with [wmaurer.change-case](https://marketplace.visualstudio.com/items?itemName=wmaurer.change-case) that has more installs from VS Marketplace.
+
 ### v0.0.6
 
 Fix Gitlab Workflow extension's name, now it points to [gitlab.gitlab-workflow](https://marketplace.visualstudio.com/items?itemName=gitlab.gitlab-workflow)

@@ -30,6 +30,10 @@ Collection of Popular VS Code extensions for Node.js development and building De
 
 ### Release Notes
 
+### v0.0.10
+
+Remove [dudash.openshift-vscode-extension](https://github.com/dudash/openshift-vscode-extension) extension that is marked as depracated.
+
 ### v0.0.9
 
 Update publisher name for vscode-icons icons pack to [vscode-icons-team](https://marketplace.visualstudio.com/publishers/vscode-icons-team).

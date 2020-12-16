@@ -2,7 +2,7 @@
     "name": "nodejs-devops-extension-pack",
     "displayName": "Node.js + DevOps Extension Pack",
     "description": "Popular VS Code extensions for Node.js development and building DevOps pipelines using GitLab and Kubernetes",
-    "version": "0.0.9",
+    "version": "0.0.10",
     "publisher": "vymarkov",
     "repository": {
         "type": "git",
@@ -41,7 +41,6 @@
         "mquandalle.graphql",
         "peterj.proto",
         "vscode-icons-team.vscode-icons",
-        "dudash.openshift-vscode-extension",
         "HashiCorp.terraform",
         "shanoor.vscode-nginx",
         "wholroyd.HCL",

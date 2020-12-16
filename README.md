@@ -30,6 +30,10 @@ Collection of Popular VS Code extensions for Node.js development and building De
 
 ### Release Notes
 
+### v0.0.9
+
+Update publisher name for vscode-icons icons pack to [vscode-icons-team](https://marketplace.visualstudio.com/publishers/vscode-icons-team).
+
 ### v0.0.8
 
 Remove [dzannotti.vscode-babel-coloring](https://marketplace.visualstudio.com/items?itemName=dzannotti.vscode-babel-coloring) due to a [bunch of issues](https://github.com/dzannotti/vscode-babel/issues/24) that introduced by this extension.

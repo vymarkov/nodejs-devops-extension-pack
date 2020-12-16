@@ -30,6 +30,10 @@ Collection of Popular VS Code extensions for Node.js development and building De
 
 ### Release Notes
 
+### v0.0.8
+
+Remove [dzannotti.vscode-babel-coloring](https://marketplace.visualstudio.com/items?itemName=dzannotti.vscode-babel-coloring) due to a [bunch of issues](https://github.com/dzannotti/vscode-babel/issues/24) that introduced by this extension.
+
 ### v0.0.7
 
 Replace [mostafa.change-case](https://marketplace.visualstudio.com/items?itemName=mostafa.change-case) extension with [wmaurer.change-case](https://marketplace.visualstudio.com/items?itemName=wmaurer.change-case) that has more installs from VS Marketplace.

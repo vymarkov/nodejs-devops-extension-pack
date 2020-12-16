@@ -2,7 +2,7 @@
     "name": "nodejs-devops-extension-pack",
     "displayName": "Node.js + DevOps Extension Pack",
     "description": "Popular VS Code extensions for Node.js development and building DevOps pipelines using GitLab and Kubernetes",
-    "version": "0.0.7",
+    "version": "0.0.8",
     "publisher": "vymarkov",
     "repository": {
 		"type": "git",
@@ -16,6 +16,8 @@
     ],
     "keywords": [
         "nodejs",
+        "typescript",
+        "terraform",
         "kubernetes",
         "helm",
         "docker",
@@ -38,7 +40,6 @@
         "msjsdiag.debugger-for-chrome",
         "mquandalle.graphql",
         "peterj.proto",
-        "dzannotti.vscode-babel-coloring",
         "robertohuertasm.vscode-icons",
         "dudash.openshift-vscode-extension",
         "HashiCorp.terraform",

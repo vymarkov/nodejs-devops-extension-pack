@@ -30,6 +30,10 @@ Collection of Popular VS Code extensions for Node.js development and building De
 
 ### Release Notes
 
+### v0.0.12
+
+Remove [trabpukcip.vscode-npm-scripts](https://github.com/Duroktar/vscode-npm-scripts) cause this same functionality is now built in to vscode.
+
 ### v0.0.11
 
 Remove mquandalle.graphql, wholroyd.hcl, shanoor.vscode-nginx extensions because they are not maintained actively anymore.

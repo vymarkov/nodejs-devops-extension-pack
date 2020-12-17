@@ -2,7 +2,7 @@
     "name": "nodejs-devops-extension-pack",
     "displayName": "Node.js + DevOps Extension Pack",
     "description": "Popular VS Code extensions for Node.js development and building DevOps pipelines using GitLab and Kubernetes",
-    "version": "0.0.11",
+    "version": "0.0.12",
     "publisher": "vymarkov",
     "repository": {
         "type": "git",
@@ -31,7 +31,6 @@
         "eamodio.gitlens",
         "eg2.vscode-npm-script",
         "christian-kohler.npm-intellisense",
-        "trabpukcip.vscode-npm-scripts",
         "fabiospampinato.vscode-open-in-npm",
         "christian-kohler.path-intellisense",
         "mikestead.dotenv",

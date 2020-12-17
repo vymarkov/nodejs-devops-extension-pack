@@ -30,6 +30,10 @@ Collection of Popular VS Code extensions for Node.js development and building De
 
 ### Release Notes
 
+### v0.0.11
+
+Remove mquandalle.graphql, wholroyd.hcl, shanoor.vscode-nginx extensions because they are not maintained actively anymore.
+
 ### v0.0.10
 
 Remove [dudash.openshift-vscode-extension](https://github.com/dudash/openshift-vscode-extension) extension that is marked as depracated.

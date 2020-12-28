@@ -4,9 +4,10 @@
     "description": "Popular VS Code extensions for Node.js development and building DevOps pipelines using GitLab and Kubernetes",
     "version": "0.0.12",
     "publisher": "vymarkov",
+    "license": "MIT",
     "repository": {
         "type": "git",
-        "url": "https://github.com/vymarkov/nodejs-devops-extension-pack.git"
+        "url": "https://github.com/vymarkov/nodejs-devops-extension-pack"
     },
     "engines": {
         "vscode": "^1.28.0"
@@ -37,7 +38,6 @@
         "dbaeumer.vscode-eslint",
         "esbenp.prettier-vscode",
         "msjsdiag.debugger-for-chrome",
-        "peterj.proto",
         "vscode-icons-team.vscode-icons",
         "HashiCorp.terraform",
         "ms-kubernetes-tools.vscode-kubernetes-tools",
@@ -50,8 +50,6 @@
         "humao.rest-client",
         "joelday.docthis",
         "aaron-bond.better-comments",
-        "wmaurer.change-case",
-        "ria.elastic",
         "yatki.vscode-surround",
         "oouo-diogo-perdigao.docthis"
     ]

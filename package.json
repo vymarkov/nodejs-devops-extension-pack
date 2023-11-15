@@ -9,7 +9,7 @@
         "url": "https://github.com/vymarkov/nodejs-devops-extension-pack.git"
     },
     "engines": {
-        "vscode": "^1.28.0"
+        "vscode": "^2023.0.0"
     },
     "categories": [
         "Extension Packs"
